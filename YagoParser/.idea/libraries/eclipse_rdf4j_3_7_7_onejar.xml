@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="eclipse-rdf4j-3.7.7-onejar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/eclipse-rdf4j-3.7.7-onejar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
